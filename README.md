@@ -1,4 +1,4 @@
-# Implementation of AOD-NET on the STM32H7A3ZI Edge Device with ARM Cortex M7
+# AOD-NET Implementation on STM32H7A3ZI Device with ARM Cortex M7 for On-Edge Dehazing
 
 ## Pre-requisite Hardware and Software
 
