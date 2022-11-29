@@ -1,0 +1,5 @@
+cnn.c:10:6:conv	136	static
+cnn.c:113:6:convInPlace	120	static
+cnn.c:179:6:reluInPlace	40	static
+cnn.c:200:6:convAdd	120	static
+cnn.c:265:6:estResult	40	static
