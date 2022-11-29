@@ -2,7 +2,7 @@
 
 ## Pre-requisite Hardware and Software
 
-This section is pertinent to those who wish to run this code as developed. All following instructions are with respect to the hardware used by the authors.
+This section is pertinent to those who wish to run this code as developed. All following instructions are with respect to the hardware used by the author.
 
 Prior to running the code, please ensure the following:
 
