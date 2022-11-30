@@ -1,5 +1,7 @@
 # AOD-NET Implementation on STM32H7A3ZI Device with ARM Cortex M7 for On-Edge Single Image Dehazing
 
+**Contributing Author**: [Adnan Armouti](https://github.com/adnan-armouti).
+
 ## Pre-requisite Hardware and Software
 
 This section is pertinent to those who wish to run this code as developed. All following instructions are with respect to the hardware used by the author.
